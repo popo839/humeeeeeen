@@ -1,4 +1,4 @@
-
+title: AA
 出典：beatmania IIDX
 
 BPM：154
